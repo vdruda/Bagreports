@@ -7,3 +7,5 @@
 Приложите 3-5 отчетов о дефекте к вашему решению (в гугл-таблице) Зарегистрируйтесь в Jira (в России можно попробовать через VPN) и оформите хотя бы один отчет о дефекте в этой системе. Приложите скриншот с этим отчетом в решении к задаче
 
 Решение: https://docs.google.com/spreadsheets/d/1cWndSLte6qyFQU6mecKPyhlB1hwW0Rrm/edit?usp=sharing&ouid=116806525300256415592&rtpof=true&sd=true
+
+<img width="1673" alt="Aliexp" src="https://github.com/vdruda/Bagreports/assets/141385609/88421fab-39f5-41b9-b712-30a540c62114">
